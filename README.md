@@ -1,2 +1,2 @@
-# multiple_page_web_scraping_r_selector_gadget
-multiple_page_web_scraping_r_selector_gadget
+#web_scraping_r_selector_gadget_multiple_pages
+amazon_review_web_scraping_r
