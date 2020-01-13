@@ -1,0 +1,2 @@
+# multiple_page_web_scraping_r_selector_gadget
+multiple_page_web_scraping_r_selector_gadget
